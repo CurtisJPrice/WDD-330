@@ -1,17 +1,17 @@
 const temples = [
     {
         templeName: "Ainsworth State Park",
-        sourceUrl: "Extra-pages/ainsworth.html",
+        sourceUrl: "/Extra-pages/ainsworth.html",
         imageUrl: "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg&park=105&fit=cover&w=1200&h=600"
     },
     {
         templeName: "Alderwood State Wayside",
-        sourceUrl: "Extra-pages/alderwood.html",
+        sourceUrl: "/Extra-pages/alderwood.html",
         imageUrl: "https://stateparks.oregon.gov/index.cfm?do=image.get&name=alderwood1120920.jpg&park=59&fit=cover&w=1200&h=600"
     },
     {
         templeName: "Agate Beach State Recreation Site",
-        sourceUrl: "Extra-pages/agate.html",
+        sourceUrl: "/Extra-pages/agate.html",
         imageUrl: "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg&park=152&fit=cover&w=1200&h=600"
     },
     {
