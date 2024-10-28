@@ -26,7 +26,7 @@ const temples = [
     },
     {
         templeName: "Bolon Island Tideways State Scenic Corridor",
-        sourceUrl: "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=80",
+        sourceUrl: "extra-pages/bolon-island.html",
         imageUrl: "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Untitled-1071756.jpg&park=80&fit=cover&w=1200&h=600"
     }
 ];
