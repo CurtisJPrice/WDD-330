@@ -11,8 +11,8 @@ const temples = [
         templeName: "Park Information",
         location: "Oregon Parks and Recreation Department 725 Summer Street NE Suite C Salem OR",
         describe: "Large trees characterize this forested park along Hwy 36 between Junction City and Triangle Lake. There's a picnic area, restroom, and short trail along the Long Tom River. Bring a lunch and relax!",
-        dedicated: "1931-35",
-        area: 0.11875,
+        dedicated: "1939",
+        area: 0.022,
     },
     {
         templeName: "Source Link",

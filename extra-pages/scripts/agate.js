@@ -11,8 +11,8 @@ const temples = [
         templeName: "Park Information",
         location: "Oregon Parks and Recreation Department 725 Summer Street NE Suite C Salem OR",
         describe: "Diggers, this park's for you! Razor clamming is a favorite activity as well as surfing. If you plan to visit prime Newport attractions like the Oregon Coast Aquarium and Hatfield Marine Science Center, you must stop in for a refreshing picnic at Agate Beach. Agate Beach Wayside is situated between the new and old highway 101. There is a large parking lot with room for trailer parking. The beach access trail consists of a tunnel that goes underneath the old highway 101 to a large sandy beach area.",
-        dedicated: "1969",
-        area: 0.028875,
+        dedicated: "1967",
+        area: 2.5,
     },
     {
         templeName: "Source Link",

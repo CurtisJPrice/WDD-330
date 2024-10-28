@@ -10,9 +10,9 @@ const temples = [
     {
         templeName: "Park Information",
         location: "Historic Columbia River Hwy, Cascade Locks, OR",
-        describe: "A tract of 40 acres was donated in 1933 by John C. Ainsworth and his wife, Alice. Additional land was purchased in 1947 and 1966. Original picnic facilities and trails were constructed in 1935 by Civilian Conservation Corps workers. John Churchill Ainsworth (1870-1943) was a prominent Oregon businessman and banker (U. S. National Bank) in Portland. He served as chairman of the State Highway Commission 1931-1932 and was the son of Captain J. C. Ainsworth, pioneer steam-boatman and founder of the Oregon Steam Navigation Company.",
-        dedicated: "1935",
-        area: 4,
+        describe: "Battle Mountain Forest State Scenic Corridor -- located on U.S. 395 nine miles north of Ukiah -- was purchased to protect the forest of ponderosa pine, larch, Douglas fir and spruce. It provides prime habitat for all kinds of wildlife. The name commemorates one of the last battles between native Americans and settlers in eastern Oregon. This confrontation took place near the park. The park also served as a Civilian Conservation Corps camp, whose members constructed the water system, installed picnic tables and built the large granite stone fireplace still available for use in the park. The park offers a convenient place to gather for summer visitors. Spring brings with it the beauty of abundant wildflowers and wildlife. Many people enjoy the many species of birds in the park throughout the spring and summer. Whether you are traveling the highway and need a place to stretch your legs, or are looking for a place to have a family reunion or get together for a large group, be sure and consider Battle Mountain.",
+        dedicated: "1975",
+        area: 2,
     },
     {
         templeName: "Source Link",

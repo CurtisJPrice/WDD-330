@@ -12,7 +12,7 @@ const temples = [
         location: "Historic Columbia River Hwy, Cascade Locks, OR",
         describe: "A tract of 40 acres was donated in 1933 by John C. Ainsworth and his wife, Alice. Additional land was purchased in 1947 and 1966. Original picnic facilities and trails were constructed in 1935 by Civilian Conservation Corps workers. John Churchill Ainsworth (1870-1943) was a prominent Oregon businessman and banker (U. S. National Bank) in Portland. He served as chairman of the State Highway Commission 1931-1932 and was the son of Captain J. C. Ainsworth, pioneer steam-boatman and founder of the Oregon Steam Navigation Company.",
         dedicated: "1935",
-        area: 4,
+        area: 0.0625,
     },
     {
         templeName: "Source Link",
