@@ -16,12 +16,12 @@ const temples = [
     },
     {
         templeName: "Angel's Rest Trailhead",
-        sourceUrl: "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=219",
+        sourceUrl: "extra-pages/angels-rest.html",
         imageUrl: "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Angel_s_Rest112050.jpg&park=219&fit=cover&w=1200&h=600"
     },
     {
         templeName: "Battle Mountain Forest State Scenic Corridor",
-        sourceUrl: "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=173",
+        sourceUrl: "extra-pages/battle-mountain.html",
         imageUrl: "https://stateparks.oregon.gov/index.cfm?do=image.get&name=DSCN1409.JPG&park=173&fit=cover&w=1200&h=600"
     },
     {

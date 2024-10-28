@@ -1,11 +1,11 @@
 const sharedImages = { 
-    ainsworth: "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg&park=105&fit=cover&w=1200&h=600"
+    island: "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Untitled-1071756.jpg&park=80&fit=cover&w=1200&h=600"
 };
 
 const temples = [
     {
-        templeName: "Ainsworth State Park",
-        imageUrl: sharedImages.ainsworth // Reference the shared image
+        templeName: "Bolon Island Tideways State Scenic Corridor",
+        imageUrl: sharedImages.island // Reference the shared image
     },
     {
         templeName: "Park Information",
@@ -16,8 +16,8 @@ const temples = [
     },
     {
         templeName: "Source Link",
-        sourceUrl: "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=105",
-        descriptionLink: "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=105",
+        sourceUrl: "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=80",
+        descriptionLink: "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=80",
     },
 ];
 
