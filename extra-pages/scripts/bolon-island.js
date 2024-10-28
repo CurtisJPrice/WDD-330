@@ -9,10 +9,10 @@ const temples = [
     },
     {
         templeName: "Park Information",
-        location: "Historic Columbia River Hwy, Cascade Locks, OR",
-        describe: "A tract of 40 acres was donated in 1933 by John C. Ainsworth and his wife, Alice. Additional land was purchased in 1947 and 1966. Original picnic facilities and trails were constructed in 1935 by Civilian Conservation Corps workers. John Churchill Ainsworth (1870-1943) was a prominent Oregon businessman and banker (U. S. National Bank) in Portland. He served as chairman of the State Highway Commission 1931-1932 and was the son of Captain J. C. Ainsworth, pioneer steam-boatman and founder of the Oregon Steam Navigation Company.",
-        dedicated: "1935",
-        area: 4,
+        location: "Oregon Parks and Recreation Department 725 Summer Street NE, Suite C Salem, OR",
+        describe: "This park is a quiet place with a hiking trail that extends half way around the island. The shoreline along the Umpqua River side of the park has been home to hundreds of Double Crested Cormorants since 1988.  The birds nest close together, each pair building a platform of sticks in the trees.  Such rookeries are usually too remote for easy viewing, which makes Bolon Island Day Use area so unique! The trail also provides a nice view of the Umpqua River. This park has no restrooms or potable water.",
+        dedicated: "1934",
+        area: 1.5,
     },
     {
         templeName: "Source Link",
